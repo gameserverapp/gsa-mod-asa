@@ -3,7 +3,7 @@
 Create a customized version of the GSA Integration mod for your community.
 
 > [!IMPORTANT]
-> While you can use the source code to create your own mod, it is not allowed to advertise your mod as being an official (or similar) GameServerApp mod. It is OK to mention that your mod uses GameServerApp.
+> While you can use the source code to create your own mod, it is not allowed to advertise your mod as being the official (or similar) GameServerApp mod. It is OK to mention that your mod works with GameServerApp API.
 
 ## Features
 
