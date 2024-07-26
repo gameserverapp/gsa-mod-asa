@@ -72,29 +72,20 @@ The API is used to retrieve what keybindings you have [configured on the dashboa
 
 <br>
 
-### 1. Get your API key
-[Grab your API keys](https://dash.gameserverapp.com/configure/api) from the GSA dashboard.<br>
-The keys you need are the `Client ID` and the `Client Secret`, listed under `OAuth API (Community website)`. 
-
-### 2. Set up the API key
-The API keys must be set up in your `GameUserSettings.ini`, as shown below.<br>
-The `ID` field must contain the `Game server ID`, which you can find on your GSA dashboard.
-
-```
-[gameserverapp]
-ID=
-ClientID=
-ClientSecret=
-```
-
-**DediConnect**<br>
-For DediConnect users, you can use the example below. GSA will automatically replace with the right values:
+### DediConnect
+DediConnect users can paste the code below in their `GameUserSettings.ini`. GSA automatically replaces with the right values:
 ```
 [gameserverapp]
 ID={container.name}
 ClientID={api.community.client_id}
 ClientSecret={api.community.client_secret}
 ```
+
+
+### RconConnect
+When using a self-hosted or rented game server, you can get the required mod configurations from the [RconConnect Integrate page](https://docs.gameserverapp.com/getting_started/rconconnect/integrate).
+
+![image](https://github.com/user-attachments/assets/f23458e6-97b2-4e54-b33e-d864ef0ae8a1)
 
 
 # Developers
