@@ -53,9 +53,6 @@ We will monitor changes, since it still bears the GSA name, but are not planning
 
 We do plan to continue working on the Community API, which the mod relies on, and work with mod developers that want to add new features to the mod.
 
-Currently active developer(s):
-- [ropie](https://github.com/ropie)
-
 ### How to contribute / report issues
 You can post new ideas for the mod in the [suggestions section](https://github.com/gameserverapp/gsa-mod-asa/discussions/categories/suggestions).<br>
 Report bugs and/or issues in the [issues section](https://github.com/gameserverapp/gsa-mod-asa/issues).
