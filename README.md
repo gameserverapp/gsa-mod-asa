@@ -86,7 +86,7 @@ When using a self-hosted or rented game server, you can get the required mod con
 
 
 # Developers
-If you want to know more about the GSA API's and how to interact with them, check out the [GSA Community API docs](https://docs.gameserverapp.com/developers/community-api/shop-get-index).<br>
+If you want to know more about the GSA API's and how to interact with them, check out the [GSA Mod API docs](https://docs.gameserverapp.com/developers/mod-api).<br>
 You can also reach out on [Discord](https://gameserverapp.com/join-discord).
 
 ### Getting started with the ARK Devkit
