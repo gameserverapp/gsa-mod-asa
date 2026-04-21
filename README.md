@@ -37,7 +37,7 @@ scriptcommand gsaxp {steamid} {amount}
 ```
 
 ## Test the mod
-If you're curious and want to give the mod a try, there are currently 2 versions listed on the CurseForge website:
+If you're curious and want to give the mod a try, there are currently 3 versions listed on the CurseForge website:
 - [GameServerApp.com Integration (PC-only)](https://legacy.curseforge.com/ark-survival-ascended/mods/gameserverapp-integration)
 - [GameServerApp.com integration (Crossplay)](https://legacy.curseforge.com/ark-survival-ascended/mods/gsa-integration-no-shop)
 - [GameServerApp.com integration (Crossplay+shop)](https://legacy.curseforge.com/ark-survival-ascended/mods/gameserverapp-com-integration-crossplay-shop)
