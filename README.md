@@ -24,7 +24,6 @@ Create a customized version of the GSA Integration mod for your community.
 scriptcommand gsakill {steamid}  //can kill other players, at some occassions
 scriptcommand gsakillnew {playerid}  //fixes bug from gsakill
 scriptcommand gsateleport {steamid} {x y z}
-scriptcommand gsainfo {steamid}
 scriptcommand gsadinocoloring {amount} {steamid}
 scriptcommand gsanotify {warning/danger/success} {duration} {steamid/global} {message}
 scriptcommand gsamute {steamid} {true/false} {message}
